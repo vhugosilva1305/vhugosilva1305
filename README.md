@@ -1,27 +1,29 @@
 ## Olá 👋 Sou o Vitor Silva
 
 Sou estudante de **Comunicação e Multimédia** e estou a desenvolver competências em **desenvolvimento web full-stack**.
+Sou **Vitor Silva**, estudante de **Comunicação e Multimédia**, com foco no desenvolvimento de **aplicações web full-stack**.
 
-### 🚀 No que estou a trabalhar
-- Uma aplicação web de **gestão de reservas** com **Laravel** e **Vue 3 (Inertia.js)**
+Atualmente encontro-me a desenvolver uma **aplicação web de gestão de reservas**, utilizando **Laravel** no back-end e **Vue 3 com Inertia.js** no front-end.
 
-### 🤝 Aberto a colaborar
-- Projetos web pequenos/médios (académicos ou reais)
-- Back-end em **PHP/Laravel**
-- Front-end com **Vue.js** (com ou sem Inertia)
-- Integração com **bases de dados MySQL**
+### Áreas de colaboração
+- Projetos web de pequena e média dimensão (académicos ou reais)
+- Desenvolvimento back-end com **PHP / Laravel**
+- Desenvolvimento front-end com **Vue.js**
+- Integração e gestão de **bases de dados MySQL**
 
-### 📚 O que estou a aprender
+### Em aprendizagem
 - Boas práticas e organização de projetos em **Laravel**
-- **Vue 3** e componentes reutilizáveis
-- Integração front-end ↔ back-end com **Inertia.js**
-- **Docker** para ambientes de desenvolvimento
+- Desenvolvimento de interfaces com **Vue 3** e componentes reutilizáveis
+- Comunicação entre front-end e back-end com **Inertia.js**
+- Utilização de **Docker** para ambientes de desenvolvimento
 
-### 💬 Podes falar comigo sobre
+### Competências e interesses técnicos
 - PHP (Programação Orientada a Objetos)
-- Laravel e estrutura de projetos
-- MySQL e modelação de base de dados
+- Laravel e arquitetura de aplicações
+- MySQL e modelação de bases de dados
 - Desenvolvimento de aplicações web
+
+
 
 
 
